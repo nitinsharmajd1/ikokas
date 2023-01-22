@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "605636900000",
+    "project_id": "ikokas-8f5b2",
+    "storage_bucket": "ikokas-8f5b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605636900000:android:f1f3a85703c471ab51c5c5",
+        "android_client_info": {
+          "package_name": "com.nitin.ikokas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605636900000-jf5hnng7jq087n6q15iof8rqd741m9b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nitin.ikokas",
+            "certificate_hash": "c34f2bf73be954b4e6b29d30a1233274e5d21620"
+          }
+        },
+        {
+          "client_id": "605636900000-pqo8qd2lv2je47sru3snqt20fe2jns59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkBUqQEWLyRdvOzOVhPaqYUrzblyX0NcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605636900000-pqo8qd2lv2je47sru3snqt20fe2jns59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
